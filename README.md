@@ -213,15 +213,13 @@ http://localhost:5000
 * The app automatically fetches all overlays on page load.
 
 ---
-
-## **6️⃣ Screenshots**
-
-> Add screenshots here:
+:
 
 
-## Livestream Image
+## 📸 Screenshots
 
-![Livestream Video](./screenshots/livestream.png)
+Livestream Video Screenshot:  
+![Livestream Screenshot](screenshots/livestream.png)
 
 
 
@@ -245,6 +243,7 @@ npm start
 ```
 
 ---
+
 
 
 
