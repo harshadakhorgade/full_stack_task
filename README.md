@@ -219,9 +219,10 @@ http://localhost:5000
 > Add screenshots here:
 
 
-## Livestream Video Preview
+## Livestream Image
 
-![Livestream Video](screenshots/livestream.png)
+![Livestream Video](./screenshots/livestream.png)
+
 
 
 ---
@@ -244,6 +245,7 @@ npm start
 ```
 
 ---
+
 
 
 
