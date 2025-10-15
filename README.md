@@ -218,9 +218,9 @@ http://localhost:5000
 
 > Add screenshots here:
 
-* Landing page
-* Overlay editing
-* Livestream with overlays
+
+### Livestream Video
+![Livestream](screenshots/livestream.png)
 
 ---
 
@@ -242,5 +242,6 @@ npm start
 ```
 
 ---
+
 
 
